@@ -1,8 +1,16 @@
 # Algorhythmic Bitcoin Momentum Trader
 ## Overview
-Analysing algorithmic momentum strategies for BTC and checking their robustness
 
-This projectaims to analyse algorithmic momentum-based strategies for Bitcoin (BTC). The project focuses on implementing and evaluating trading strategies based on Exponential Moving Averages (EMAs) and includes robustness checks through bootstrapping and other methods.
+This project aims to analyse algorithmic momentum-based strategies for Bitcoin (BTC). The project focuses on implementing and evaluating trading strategies based on Exponential Moving Averages (EMAs) and includes robustness checks through bootstrapping and other methods.
+
+### Bootstrap Visualized
+![Bootstrap Visualized](Visualizations/Bootstrap_Visualized.png)
+
+### Buy Sell Visual
+![Buy Sell Visual](Visualizations/Buy_Sell_visual.png)
+
+### Random Start and End
+![Random Start and End](Visualizations/Random_StartNEnd.png)
 
 ## Colab Notebook
 
@@ -17,3 +25,5 @@ For a detailed explanation of the project and the bootstrapping results of the s
 - [Project Report](Report.pdf)
 - [Bootstrapping Results](bootstrap_results.csv)
 - [Random Start and End Results](Random_Start_and_End_Results.csv)
+
+
