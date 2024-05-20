@@ -1,4 +1,4 @@
-# Algorhythmic Bitcoin Momentum Trader
+# Algorithmic Bitcoin Momentum Trader
 ## Overview
 
 This project aims to analyse algorithmic momentum-based strategies for Bitcoin (BTC). The project focuses on implementing and evaluating trading strategies based on Exponential Moving Averages (EMAs) and includes robustness checks through bootstrapping and other methods.
